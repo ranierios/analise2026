@@ -9,3 +9,5 @@ if total >= 18 and gen == "M" :
     print("Você está apto para o alistamento")
 else :
     print ("Você não é apto para o alistamento")
+print("teste")
+
