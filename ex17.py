@@ -12,3 +12,4 @@ elif temp >= 18 and temp < 30 :
 else :
     print(f" Calor - Temperatura setada em {temp}")
 
+print("alguem apareceu aqui")
