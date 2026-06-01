@@ -1,3 +1,5 @@
+#Desenvolva um codigo em phyton que leia 5 numeros e diga se cada um deles é PAR ou IMPAR
+
 for i range (0,5)
 num= int(input(f"digite o {i} numero: "))
 if num % 2 == 0:
